@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FEEF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kartik+Kotnala;Full+Stack+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://your-image-url.glitchy-banner.gif" alt="Kartik Kotnala - Glitch Banner" width="100%" />
 </p>
 
 <p align="center">
