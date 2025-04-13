@@ -19,7 +19,6 @@
 }
 </style>
 
-
 <p align="center">
   I'm a passionate <strong>Full Stack Developer</strong> from Hyderabad, India 🇮🇳<br>
   I love building web applications and exploring new technologies!
