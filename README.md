@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.glitchy-banner.gif" alt="Kartik Kotnala - Glitch Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FEEF&center=true&vCenter=true&width=600&lines=Kartik+Kotnala;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
