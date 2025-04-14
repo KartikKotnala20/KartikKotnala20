@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: [Rubik's Cube Solver](https://github.com/KartikKotnala20/Rubik-s-Cube)
 - 🌱 I’m learning: Advanced algorithms and system design
 - 💬 Ask me about: JavaScript, Python, Django, and web development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-kotnala/) [MAIL](kartik.kotnala@gmail.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-kotnala/) [Mail](kartik.kotnala@gmail.com) 
 - ⚡ Fun fact: I enjoy solving complex puzzles and challenges
 
 ---
