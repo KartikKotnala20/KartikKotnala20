@@ -42,6 +42,10 @@
 
 ---
 
+![snake gif](https://github.com/KartikKotnala20/KartikKotnala20/blob/output/github-snake-dark.svg)
+
+
+
 ## 🚀 Projects
 
 - 🧩 [Rubik's Cube Solver](https://github.com/KartikKotnala20/Rubik-s-Cube)
