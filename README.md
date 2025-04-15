@@ -1,4 +1,4 @@
-![Snake animation](https://KartikKotnala20.github.io/<your-repo-name>/ocean.gif)
+
 
 
 
