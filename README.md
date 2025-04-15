@@ -1,4 +1,35 @@
-![Snake animation](https://KartikKotnala20.github.io/<your-repo-name>/ocean.gif)
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: KartikKotnala20
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output       # Push to 'output' branch
+          folder: dist         # The folder to deploy
+          clean: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update GitHub contribution snake"
+
 
 
 <p align="center">
