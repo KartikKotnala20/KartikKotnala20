@@ -1,6 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=9213AB&background=1F1C2C00&center=true&vCenter=true&width=600&lines=+Kartik+Kotnala;🚀+Full+Stack+Developer;🔥+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
+<svg width="100%" height="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg {
+      fill: black;
+    }
+    .text {
+      font-family: 'Courier New', monospace;
+      font-size: 48px;
+      fill: #00ffea;
+      stroke: #00ffee33;
+      stroke-width: 0.8;
+      text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+    }
+    .cursor {
+      fill: #00ffea;
+      animation: blink 0.8s steps(2, start) infinite;
+    }
+    @keyframes blink {
+      to {
+        visibility: hidden;
+      }
+    }
+    .code-glow {
+      animation: glow 2s infinite ease-in-out;
+    }
+    @keyframes glow {
+      0% {
+        fill: #00ffff;
+        filter: drop-shadow(0 0 5px #00ffff);
+      }
+      50% {
+        fill: #00ffaa;
+        filter: drop-shadow(0 0 10px #00ffaa);
+      }
+      100% {
+        fill: #00ffff;
+        filter: drop-shadow(0 0 5px #00ffff);
+      }
+    }
+  </style>
+
+  <rect class="bg" width="100%" height="100%" />
+
+  <text x="50" y="100" class="text code-glow">Kartik Kotnala</text>
+
+  <rect x="620" y="68" width="18" height="48" class="cursor" />
+</svg>
 
 <p align="center">
   I'm a passionate <strong>Full Stack Developer</strong> from Hyderabad, India 🇮🇳<br>
