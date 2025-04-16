@@ -1,7 +1,6 @@
-
-
-
-
+<p align="center">
+  <img src="https://github.com/KartikKotnala20/your-repository-name/blob/main/assets/animated-name.gif" alt="Futuristic Animated Name" />
+</p>
 
 <p align="center">
   I'm a passionate <strong>Full Stack Developer</strong> from Hyderabad, India 🇮🇳<br>
