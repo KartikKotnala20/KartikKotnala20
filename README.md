@@ -17,71 +17,84 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 My Tech Toolbox
 
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-
-**Frontend Tools**
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><b>React</b></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br><b>TypeScript</b></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><b>Python</b></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/><br><b>Django</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><b>Node.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br><b>Tailwind</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50"/><br><b>Vite</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br><b>MongoDB</b></td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KartikKotnala20&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikKotnala20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKotnala20&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uehuo7yzx44mpksvwzzonxo47a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/KartikKotnala20/KartikKotnala20/blob/output/github-snake-dark.svg" />
+</div>
+
+---
+
+## 🚀 Highlight Projects
+
+- 🛠️ [Ship Maintenance Dashboard](https://github.com/KartikKotnala20) – React + Tailwind + LocalStorage  
+- 🧩 [Rubik's Cube Solver](https://github.com/KartikKotnala20/Rubik-s-Cube) – Algorithmic 3D simulation  
+- 🤖 [Storm Chatbot](https://github.com/KartikKotnala20/Storm-chatbot) – AI-powered chatbot interface  
+- 🏦 [Bank Project](https://github.com/KartikKotnala20/Bank-Project-Py-) – Full-stack banking simulation  
+- 🎮 [BGMI Clone](https://github.com/KartikKotnala20/BgmiClone-Django) – Django-based multiplayer template  
+- 💬 [Stack Overflow Clone](https://github.com/KartikKotnala20/stack-overflow) – Full-featured Q&A system  
+
+---
+
+## 📈 Visitor Counter
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikKotnala20&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKotnala20&layout=compact&theme=radical" width="45%" />
+  <img src="https://profile-counter.glitch.me/KartikKotnala20/count.svg" />
 </p>
-
----
-
-![snake gif](https://github.com/KartikKotnala20/KartikKotnala20/blob/output/github-snake-dark.svg)
-
----
-
-## 🚀 Projects
-
-- 🛠️ [Ship Maintenance Dashboard](https://github.com/KartikKotnala20) *(React + LocalStorage project)*  
-- 🧩 [Rubik's Cube Solver](https://github.com/KartikKotnala20/Rubik-s-Cube)  
-- 🤖 [Storm Chatbot](https://github.com/KartikKotnala20/Storm-chatbot)  
-- 🏦 [Bank Project](https://github.com/KartikKotnala20/Bank-Project-Py-)  
-- 🎮 [BGMI Clone](https://github.com/KartikKotnala20/BgmiClone-Django)  
-- 💬 [Stack Overflow Clone](https://github.com/KartikKotnala20/stack-overflow)  
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Kartik%20Kotnala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartik-kotnala/)](https://www.linkedin.com/in/kartik-kotnala/)
-[![GitHub](https://img.shields.io/badge/-KartikKotnala20-black?style=flat-square&logo=github&link=https://github.com/KartikKotnala20)](https://github.com/KartikKotnala20)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-kotnala/"><img src="https://img.shields.io/badge/-Kartik%20Kotnala-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KartikKotnala20"><img src="https://img.shields.io/badge/-KartikKotnala20-black?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  ✨ Crafted with passion & caffeine ☕
+  ✨ Crafted with passion & caffeine ☕ | Built with ❤️ by <strong>Kartik Kotnala</strong>
 </p>
 
 
