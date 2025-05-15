@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kartik+Kotnala;🚀+Full+Stack+Developer;🌐+Exploring+Web+Technologies+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Kartik+Kotnala;Full+Stack+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" style="background: linear-gradient(90deg, #1F1C2C, #928DAB); -webkit-background-clip: text; color: transparent;" />
 </p>
 
 <p align="center">
