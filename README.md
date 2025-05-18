@@ -79,7 +79,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-kotnala/"><img src="https://img.shields.io/badge/-Kartik%20Kotnala-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kartik-kotnala-a741b3205"><img src="https://img.shields.io/badge/-Kartik%20Kotnala-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/KartikKotnala20"><img src="https://img.shields.io/badge/-KartikKotnala20-black?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
