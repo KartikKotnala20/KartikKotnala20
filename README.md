@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-  ✨ Crafted with passion & caffeine ☕ | Built with ❤️ by <strong>Kartik Kotnala</strong>
+  ✨ Crafted with passion & caffeine ☕ | Built with<strong>Kartik </strong>
 </p>
 
 
