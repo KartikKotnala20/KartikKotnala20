@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: [Ship Maintenance Dashboard](https://github.com/KartikKotnala20/Ship_Maintenance_Dashboard-React)  
 - 🌱 I’m learning: Advanced algorithms, system design & scalable architecture  
 - 💬 Ask me about: JavaScript, Python, Django, React, and full-stack development  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-kotnala/) • [Email](mailto:kartik.kotnala@gmail.com)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-kotnala-a741b3205) • [Email](mailto:kartik.kotnala20@gmail.com)  
 - ⚡ Fun fact: I enjoy solving complex puzzles and logic-based challenges 🧠  
 
 ---
